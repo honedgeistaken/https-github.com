@@ -1,0 +1,9 @@
+supabase
+python-dotenv
+yt-dlp
+curl-cffi
+certifi
+requests
+youtube-transcript-api
+opencv-python-headless
+faster-whisper
